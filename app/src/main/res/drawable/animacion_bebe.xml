@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/bebe1" android:duration="95"/>
+    <item android:drawable="@drawable/bebe2" android:duration="95"/>
+    <item android:drawable="@drawable/bebe3" android:duration="95"/>
+    <item android:drawable="@drawable/bebe4" android:duration="95"/>
+    <item android:drawable="@drawable/bebe5" android:duration="95"/>
+    <item android:drawable="@drawable/bebe6" android:duration="95"/>
+    <item android:drawable="@drawable/bebe7" android:duration="95"/>
+    <item android:drawable="@drawable/bebe8" android:duration="95"/>
+    <item android:drawable="@drawable/bebe9" android:duration="95"/>
+    <item android:drawable="@drawable/bebe10" android:duration="95"/>
+    <item android:drawable="@drawable/bebe11" android:duration="95"/>
+    <item android:drawable="@drawable/bebe12" android:duration="95"/>
+    <item android:drawable="@drawable/bebe13" android:duration="95"/>
+    <item android:drawable="@drawable/bebe14" android:duration="95"/>
+    <item android:drawable="@drawable/bebe15" android:duration="95"/>
+    <item android:drawable="@drawable/bebe16" android:duration="95"/>
+    <item android:drawable="@drawable/bebe17" android:duration="95"/>
+    <item android:drawable="@drawable/bebe18" android:duration="95"/>
+    <item android:drawable="@drawable/bebe19" android:duration="95"/>
+    <item android:drawable="@drawable/bebe20" android:duration="95"/>
+    <item android:drawable="@drawable/bebe21" android:duration="95"/>
+    <item android:drawable="@drawable/bebe22" android:duration="95"/>
+    <item android:drawable="@drawable/bebe23" android:duration="95"/>
+    <item android:drawable="@drawable/bebe24" android:duration="95"/>
+    <item android:drawable="@drawable/bebe25" android:duration="95"/>
+    <item android:drawable="@drawable/bebe26" android:duration="95"/>
+    <item android:drawable="@drawable/bebe27" android:duration="95"/>
+    <item android:drawable="@drawable/bebe28" android:duration="95"/>
+    <item android:drawable="@drawable/bebe29" android:duration="95"/>
+    <item android:drawable="@drawable/bebe30" android:duration="95"/>
+    <item android:drawable="@drawable/bebe31" android:duration="95"/>
+    <item android:drawable="@drawable/bebe32" android:duration="95"/>
+    <item android:drawable="@drawable/bebe33" android:duration="95"/>
+    <item android:drawable="@drawable/bebe34" android:duration="95"/>
+    <item android:drawable="@drawable/bebe35" android:duration="95"/>
+    <item android:drawable="@drawable/bebe36" android:duration="95"/>
+    <item android:drawable="@drawable/bebe37" android:duration="95"/>
+    <item android:drawable="@drawable/bebe38" android:duration="95"/>
+    <item android:drawable="@drawable/bebe39" android:duration="95"/>
+    <item android:drawable="@drawable/bebe40" android:duration="95"/>
+    <item android:drawable="@drawable/bebe41" android:duration="95"/>
+    <item android:drawable="@drawable/bebe42" android:duration="95"/>
+    <item android:drawable="@drawable/bebe43" android:duration="95"/>
+    <item android:drawable="@drawable/bebe44" android:duration="95"/>
+    <item android:drawable="@drawable/bebe45" android:duration="95"/>
+    <item android:drawable="@drawable/bebe46" android:duration="95"/>
+
+
+</animation-list>

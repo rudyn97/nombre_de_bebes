@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/idViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/idMostrar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/vista"
+        android:autoLink="email"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:linksClickable="true"
+        android:onClick="botonMostrar"
+        android:padding="10dp"
+        android:text="Mostrar"
+        android:textColor="@color/negro"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/vista"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:alpha=".5"
+        android:background="@color/colorWhite"
+        android:layout_above="@+id/idLinearLayoutDots"
+        />
+
+    <LinearLayout
+        android:id="@+id/idLinearLayoutDots"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="85dp"
+        android:gravity="center"
+        android:orientation="horizontal" />
+
+    <Button
+        android:id="@+id/idBotonNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/boton_slide"
+        android:onClick="botonSiguiente"
+        android:text="@string/siguiente"
+        android:textColor="@color/blanco"
+        android:textColorHighlight="@color/negro"
+        android:textColorLink="@color/negro"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/idBotonBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:background="@drawable/boton_slide"
+        android:onClick="botonAnterior"
+        android:text="@string/atras"
+        android:textColor="@color/blanco"
+        android:textColorHighlight="@color/negro"
+        android:textColorLink="@color/negro"
+        android:textStyle="bold" />
+
+</RelativeLayout>

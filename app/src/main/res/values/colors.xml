@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#db5e47a4</color>
+    <color name="colorPrimaryDark">#a85e47a4</color>
+    <color name="colorAccent">#785ccc</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorWhite1">#e2e0e0</color>
+    <color name="colorBotones">#9d5c40b1</color>
+    <color name="niñas">#fbb0b4</color>
+    <color name="niños">#6897c7</color>
+
+    <color name="negro">#000000</color>
+    <color name="blanco">#ffffff</color>
+</resources>

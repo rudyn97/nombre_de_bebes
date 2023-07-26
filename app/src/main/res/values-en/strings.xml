@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Baby Names</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Closed</string>
+    <string name="datos_nombres">Name Data</string>
+    <string name="crear_nombre">Create Name</string>
+    <string name="elegir_nombre">Choose Names</string>
+    <string name="elegir_nombre1">Keys to choose</string>
+    <string name="nombres_creados">Names Created</string>
+    <string name="informacion">Information</string>
+    <string name="salir">Exit</string>
+    <string name="seleccionar">Select</string>
+    <string name="nombres_cubanos">Names</string>
+    <string name="nombres_extranjeros">Foreign Names</string>
+    <string name="nombres_regiones">Select by Region</string>
+    <string name="enviar">Send Email</string>
+    <string name="favoritos">Favorites</string>
+    <string name="filtrar_nombres">Filter Names</string>
+
+    <string name="seleccionado">Selected</string>
+
+    <string name="title_activity_pantalla_espera">Standby Screen</string>
+
+    <string name="niñas">Girls</string>
+    <string name="niños">Boys</string>
+    <string name="primera_letra">First letter of name</string>
+    <string name="cantidad_d_letras">Select number of letters:</string>
+    <string name="cualquier_cant">Any number</string>
+
+    <string name="compuesto">Composed</string>
+    <string name="crear">Create</string>
+
+    <string name="masculino">Male</string>
+    <string name="femenino">Female</string>
+
+
+    <string name="evaluenos">Evaluate us</string>
+
+    <string name="origenes">Origin:</string>
+    <string name="significado">Meaning:</string>
+    <string name="favorito">Favorite:</string>
+
+    <string name="favorito_menu">Favorites</string>
+    <string name="cuentos_menu">Tales</string>
+    <string name="otros_menu">Other apks</string>
+
+    <string name="africano">African</string>
+    <string name="aleman">German</string>
+    <string name="americano">American</string>
+    <string name="anglosajon">Anglo-Saxon</string>
+    <string name="arabe">Arabic</string>
+    <string name="azteca">Aztec</string>
+    <string name="caldeo">Chaldean</string>
+    <string name="canario">Canary</string>
+    <string name="catalan">Catalan</string>
+    <string name="celta">Celtic</string>
+    <string name="checo">Czech</string>
+    <string name="chino">Chinese</string>
+    <string name="danes">Danish</string>
+    <string name="egipcio">Egyptian</string>
+    <string name="escoces">Scottish</string>
+    <string name="eslavo">Slavic</string>
+    <string name="fenicio">Phoenician</string>
+    <string name="frances">French</string>
+    <string name="gales">Welsh</string>
+    <string name="gallego">Galician</string>
+    <string name="germano">German</string>
+    <string name="griego">Greek</string>
+    <string name="hawaiano">Hawaiian</string>
+    <string name="hebreo">Hebrew</string>
+    <string name="hindu">Hindi</string>
+    <string name="ingles">English</string>
+    <string name="irlandes">Irish</string>
+    <string name="italiano">Italian</string>
+    <string name="latino">Latin</string>
+    <string name="nahuatl">Nahuatl</string>
+    <string name="noruego">Norwegian</string>
+    <string name="persa">Persian</string>
+    <string name="provenzal">Provencal</string>
+    <string name="quechua">Quechua</string>
+    <string name="ruso">Russian</string>
+    <string name="sevillano">Seville</string>
+    <string name="sueco">Swedish</string>
+    <string name="vasco">Swedish</string>
+
+
+    <string name="buscar">Search Here</string>
+
+    <string name="todo">ALL</string>
+    <string name="paises">COUNTRIES</string>
+    <string name="origen">ORIGIN</string>
+
+    <string name="uruguay">Uruguay</string>
+    <string name="españa">Spain</string>
+    <string name="eeuu">United States</string>
+    <string name="italia">Italy</string>
+    <string name="cuba">Cuba</string>
+
+    <string name="escriba_alguna_letra">Write any letter</string>
+    <string name="no_tiene_favoritos">You don not have favorites</string>
+    <string name="no_tiene_favoritos1">You can add them in the filter option</string>
+
+    <string name="atras">Back</string>
+    <string name="siguiente">Next</string>
+
+    <string name="creado">Created by:</string>
+    <string name="version">Version:</string>
+
+    <string name="no_reconoce_telegram">Does not recognize Telegram</string>
+    <string name="copiado_portapapeles">Copied to clipboard</string>
+
+    <!--Slide-->
+    <!--Nombres-->
+    <string name="n1">Search for inspiration</string>
+    <string name="n2">Do a list</string>
+    <string name="n3">Be aware of fads</string>
+    <string name="n4">Say them out loud</string>
+    <string name="n5">Follow tradition, or not</string>
+    <string name="n6">Beware of quirky names</string>
+    <string name="n7">Be aware of last names</string>
+    <string name="n8">Check initials</string>
+    <string name="n9">Names of siblings</string>
+    <string name="n10">Opinions of others</string>
+    <string name="n11">Unpronounceable names</string>
+    <string name="n12">Be aware of the law</string>
+    <string name="n13">Review the agenda</string>
+    <string name="n14">Think about nicknames</string>
+    <string name="n15">Do not rush</string>
+
+    <!--Contenido-->
+    <string name="c1">There are parents who, when looking for a name for their newborn,
+        already have an idea of what they are going to choose, but there are those who,
+        when they find out that they are going to have a child, start looking everywhere
+        for inspiration .
+        You can search for different media; such as books or internet sites to get a wide variety
+        of options when choosing. For that, here we offer you a wide variety of names to
+        choose from.
+    </string>
+    <string name="c2">If you already know the sex of the baby you can make a list easier,
+        but it never hurts to be prepared. It does not matter how long it is, then you can go on
+        debugging, the important thing is not to leave out any that you like, or that sounds good
+        to you. You can do this from filters and add them to favorites.
+    </string>
+    <string name="c3">You can be one of the parents who look for the names that are trends, or not;
+        perhaps they look for names that are not similar to any other.
+        There are those who are guided by television actors, or writers, it is totally valid,
+        although you must be careful with that because the name that you love today may not
+        like you tomorrow.
+    </string>
+    <string name="c4">It can be very helpful to say the names out loud, to see how they sound,
+        both alone and with surnames. This way you will notice better if they are very long,
+        very short, they sound good.
+    </string>
+    <string name="c5">It is a tradition in many families to use the same name for generations,
+        and although it is always expected to continue to be used, this is the decision of the
+        parents. They may be under pressure because the baby on the way has a family name.
+        But the most important thing is that above all it is a name that parents like.
+    </string>
+    <string name="c6">There are many ridiculous names in the world, first of all think how your
+        child feels to bear a certain name throughout his life, if he can feel excluded or offended.
+        Do not give your child a name that they can be ashamed of.
+    </string>
+    <string name="c7">It is a good idea to write and pronounce the first and last names,
+        so as not to make mistakes, such as rhymes that lend themselves to ridicule,
+        or make puns that make them the target of ridicule. In addition to taking into
+        account if the name and surnames are long, it can be very tiresome, as well as
+        if they are very short. Although this is a matter of taste.
+    </string>
+    <string name="c8">At the time of writing the names you can also check the initials of names
+        and surnames, it would not be good if they form acronyms, shortenings, or bad acronyms.
+    </string>
+    <string name="c9">It is good to try your siblings names together, see if they sound good
+        together, and not make the mistake of calling them the same name in different languages.
+    </string>
+    <string name="c10">There are those who ask anyone for an opinion, or there are those who
+        keep decisions to themselves. You should keep in mind that if you start asking others
+        for opinions, they will influence your decision, and you may not choose a name that
+        you like, just because a friend was bothered by someone and it was called that.
+        This will end up limiting your choices.
+    </string>
+    <string name="c11">There are those who ask anyone for an opinion, or there are those who
+        keep decisions to themselves. You should keep in mind that if you start asking
+        others for opinions, they will influence your decision, and you may not choose a
+        name that you like, just because a friend was bothered by someone and it was called that.
+        This will end up limiting your choices.
+    </string>
+    <string name="c12">You must take into account the legislation of the country, some other
+        names may be prohibited in your country, because they may harm the person,
+        or go against decorum.
+    </string>
+    <string name="c13">Children should not have names of exes or pets, or people you do not like,
+        or can remember unpleasant moments in your life. So you should avoid these names that
+        can cause conflicts or constant friction.
+    </string>
+    <string name="c14">Nicknames should be taken into account, because after spending so much
+        time looking for a name, you end up calling him by a nickname; such as Antonio, Tony.
+    </string>
+    <string name="c15">
+        There is time to choose the name of the baby, there are those who do not even know it
+        until the moment of delivery, because they did not choose it beforehand, or they wait
+        to see their child before choosing it, to be guided by how it looks. First of all,
+        do not rush, lest you choose a name and then change your mind, so take as long as you want.
+    </string>
+
+</resources>
